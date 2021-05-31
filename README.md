@@ -1,2 +1,6 @@
 # FirstReactApp
-Created with CodeSandbox
+EMOJI MEANING FINDER
+Using REACT
+HTML
+JAVASCRIPT
+CSS
