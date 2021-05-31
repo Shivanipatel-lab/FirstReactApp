@@ -4,4 +4,8 @@ Using REACT
 HTML
 JAVASCRIPT
 CSS
+
+
+
+
 https://patelemojifinder.netlify.app/
